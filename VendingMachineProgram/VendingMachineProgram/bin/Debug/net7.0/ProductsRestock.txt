@@ -1,0 +1,6 @@
+Candy Bar,0.75,5
+Doritos,1.25,6
+Snickers,1.75,4
+Noodles,0.50,8
+Pizza,3,3
+Soda,1.25,8

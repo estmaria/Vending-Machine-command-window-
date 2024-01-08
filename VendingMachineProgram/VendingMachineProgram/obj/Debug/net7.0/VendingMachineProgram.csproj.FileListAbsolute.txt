@@ -1,0 +1,56 @@
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/bin/Debug/net7.0/VendingMachineProgram
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/bin/Debug/net7.0/VendingMachineProgram.deps.json
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/bin/Debug/net7.0/VendingMachineProgram.runtimeconfig.json
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/bin/Debug/net7.0/VendingMachineProgram.dll
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/bin/Debug/net7.0/VendingMachineProgram.pdb
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Debug/net7.0/VendingMachineProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Debug/net7.0/VendingMachineProgram.AssemblyInfoInputs.cache
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Debug/net7.0/VendingMachineProgram.AssemblyInfo.cs
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Debug/net7.0/VendingMachineProgram.csproj.CoreCompileInputs.cache
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Debug/net7.0/VendingMachineProgram.dll
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Debug/net7.0/refint/VendingMachineProgram.dll
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Debug/net7.0/VendingMachineProgram.pdb
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Debug/net7.0/VendingMachineProgram.genruntimeconfig.cache
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Debug/net7.0/ref/VendingMachineProgram.dll
+C:\Users\mestb\OneDrive\Escritorio\Class\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.deps.json
+C:\Users\mestb\OneDrive\Escritorio\Class\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.runtimeconfig.json
+C:\Users\mestb\OneDrive\Escritorio\Class\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.dll
+C:\Users\mestb\OneDrive\Escritorio\Class\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mestb\OneDrive\Escritorio\Class\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.AssemblyInfoInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.AssemblyInfo.cs
+C:\Users\mestb\OneDrive\Escritorio\Class\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.dll
+C:\Users\mestb\OneDrive\Escritorio\Class\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\refint\VendingMachineProgram.dll
+C:\Users\mestb\OneDrive\Escritorio\Class\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.genruntimeconfig.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\ref\VendingMachineProgram.dll
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.deps.json
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.runtimeconfig.json
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.dll
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.AssemblyInfoInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.AssemblyInfo.cs
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.dll
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\refint\VendingMachineProgram.dll
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.genruntimeconfig.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram-20231130T171838Z-001\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\ref\VendingMachineProgram.dll
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.deps.json
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.runtimeconfig.json
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.dll
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram\VendingMachineProgram\bin\Debug\net7.0\VendingMachineProgram.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.AssemblyInfoInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.AssemblyInfo.cs
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.dll
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\refint\VendingMachineProgram.dll
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\VendingMachineProgram.genruntimeconfig.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\VendingMachineProgram\VendingMachineProgram\obj\Debug\net7.0\ref\VendingMachineProgram.dll

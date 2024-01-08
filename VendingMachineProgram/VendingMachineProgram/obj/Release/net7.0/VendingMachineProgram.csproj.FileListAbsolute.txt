@@ -1,0 +1,14 @@
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/bin/Release/net7.0/VendingMachineProgram
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/bin/Release/net7.0/VendingMachineProgram.deps.json
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/bin/Release/net7.0/VendingMachineProgram.runtimeconfig.json
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/bin/Release/net7.0/VendingMachineProgram.dll
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/bin/Release/net7.0/VendingMachineProgram.pdb
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Release/net7.0/VendingMachineProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Release/net7.0/VendingMachineProgram.AssemblyInfoInputs.cache
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Release/net7.0/VendingMachineProgram.AssemblyInfo.cs
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Release/net7.0/VendingMachineProgram.csproj.CoreCompileInputs.cache
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Release/net7.0/VendingMachineProgram.dll
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Release/net7.0/refint/VendingMachineProgram.dll
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Release/net7.0/VendingMachineProgram.pdb
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Release/net7.0/VendingMachineProgram.genruntimeconfig.cache
+/Users/sanders93/COMS 201/Project/VendingMachineProgram/VendingMachineProgram/obj/Release/net7.0/ref/VendingMachineProgram.dll
